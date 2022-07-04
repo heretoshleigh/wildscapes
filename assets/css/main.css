@@ -3189,7 +3189,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner-lavender.jpg");
+		background-image: url("images/overlay.png"), url("../../images/banner-medium.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3406,6 +3406,7 @@
 
 			#banner {
 				padding: 10em 0 18em 0;
+				background-image: url("images/overlay.png"), url("../../images/banner-large.jpg");
 			}
 
 	}
@@ -3430,6 +3431,7 @@
 
 			#banner {
 				background-attachment: scroll;
+				background-image: url("images/overlay.png"), url("../../images/banner-medium.jpg");
 			}
 
 				#banner h2 {
@@ -3911,6 +3913,7 @@
 
 			#banner {
 				padding: 5em 3em 4em 3em;
+				background-image: url("images/overlay.png"), url("../../images/banner-small.jpg");
 			}
 
 		/* Main */
