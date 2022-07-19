@@ -1,4 +1,4 @@
-# wildscapes
+# Wildscapes
 This cleanly designed, responsive website brings visibility to a family-owned xeriscaping business.
 
 [Visit live site](https://wildscapes.netlify.app/)
