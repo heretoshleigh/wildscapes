@@ -3,7 +3,7 @@ This cleanly designed, responsive website brings visibility to a family-owned xe
 
 [Visit live site](https://wildscapes.netlify.app/)
 
-![wildscapes](https://user-images.githubusercontent.com/101761079/179805592-4a93fee8-e29b-4057-89ea-e00ee787c4e7.jpg)
+![wildscapes](https://user-images.githubusercontent.com/101761079/179813278-1d15590b-b2c9-4355-a537-8b1a44f8054f.jpg)
 
 ### Tech used:
 HTML, CSS, JavaScript
