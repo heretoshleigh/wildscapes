@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic&display=swap");
 
 /*
 	Alpha by HTML5 UP
@@ -2402,8 +2402,14 @@
 			font-weight: 400;
 		}
 
-		.icon > .label {
-			display: none;
+		.icon > .visually-hidden:not(:focus):not(:active) {
+			clip: rect(0 0 0 0); 
+			clip-path: inset(50%);
+			height: 1px;
+			width: 1px;
+			overflow: hidden;
+			position: absolute;
+			white-space: nowrap;
 		}
 
 		.icon:before {
